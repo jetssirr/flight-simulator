@@ -57,7 +57,3 @@ Future updates might include:
 ## Credits
 
 - Pixel art backgrounds by [Vicente Nitti](https://vnitti.itch.io/) (@vnitti), [Admurin](https://admurin.itch.io/) (@admurin), and [byKGF](https://bykgf.itch.io/).
-
-
-## Licence
-This project is licensed under the MIT License.
